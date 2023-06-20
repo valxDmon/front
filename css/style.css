@@ -1,0 +1,32 @@
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #f48a5d;
+    border: 1px solid #ff3c00;
+    border-radius: 5px;
+    width: 500px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-outline-primary {
+    color: white;
+    border-color: #ff3e1c;
+    background-color: #ff3c00;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #ff9060;
+    color: #fff;
+  }
+
+  

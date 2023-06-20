@@ -1,0 +1,29 @@
+#body {
+    background-color: #f49c88af;
+  }
+  
+  .container {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .btn-outline-primary a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .modal-small {
+    max-width: 400px;
+  }
+  
+  .modal-content {
+    padding: 0;
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
